@@ -19,6 +19,7 @@ It is important for the customer that the stations can work as independently as 
 shouldn’t stop at a station just because the network is down.
 
 Part 1
+<br>
 This part is about making the above description more precise and designing the architecture of system.
 Hand in.
 –A domain model of the slaughterhouse
